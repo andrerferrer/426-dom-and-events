@@ -23,3 +23,5 @@ Once a file has been updated in Sublime, you can run it with:
 ```bash
 node lib/01_types.js
 ```
+
+Good Luck Have Fun
